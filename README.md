@@ -16,5 +16,5 @@ Example of an generated image and bounding boxes of the different objects in the
 
 
 Labels:
-![](https://github.com/BenSa0112/Blender-Data-Generator/blob/master/2.png)
+![](https://github.com/BenSa0112/Blender-Data-Generator/blob/master/images/2.png)
 
